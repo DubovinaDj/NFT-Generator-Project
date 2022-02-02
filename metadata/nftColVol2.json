@@ -1,0 +1,322 @@
+[
+    {
+        "Background": "Green",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "second",
+        "Ear": "second",
+        "tokenId": 0
+    },
+    {
+        "Background": "Green",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "fifth",
+        "Ear": "second",
+        "tokenId": 1
+    },
+    {
+        "Background": "Green",
+        "Head": "Head",
+        "Eyes": "third",
+        "Mouth": "fourth",
+        "Ear": "first",
+        "tokenId": 2
+    },
+    {
+        "Background": "Pink",
+        "Head": "Head",
+        "Eyes": "first",
+        "Mouth": "third",
+        "Ear": "first",
+        "tokenId": 3
+    },
+    {
+        "Background": "Red",
+        "Head": "Head",
+        "Eyes": "second",
+        "Mouth": "second",
+        "Ear": "third",
+        "tokenId": 4
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "fourth",
+        "Ear": "third",
+        "tokenId": 5
+    },
+    {
+        "Background": "Blue",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "first",
+        "Ear": "second",
+        "tokenId": 6
+    },
+    {
+        "Background": "Red",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "fifth",
+        "Ear": "first",
+        "tokenId": 7
+    },
+    {
+        "Background": "Pink",
+        "Head": "Head",
+        "Eyes": "third",
+        "Mouth": "third",
+        "Ear": "first",
+        "tokenId": 8
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "second",
+        "Mouth": "first",
+        "Ear": "third",
+        "tokenId": 9
+    },
+    {
+        "Background": "Red",
+        "Head": "Head",
+        "Eyes": "second",
+        "Mouth": "second",
+        "Ear": "second",
+        "tokenId": 10
+    },
+    {
+        "Background": "Red",
+        "Head": "Head",
+        "Eyes": "third",
+        "Mouth": "first",
+        "Ear": "second",
+        "tokenId": 11
+    },
+    {
+        "Background": "Blue",
+        "Head": "Head",
+        "Eyes": "second",
+        "Mouth": "fourth",
+        "Ear": "third",
+        "tokenId": 12
+    },
+    {
+        "Background": "Red",
+        "Head": "Head",
+        "Eyes": "second",
+        "Mouth": "first",
+        "Ear": "first",
+        "tokenId": 13
+    },
+    {
+        "Background": "Red",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "first",
+        "Ear": "third",
+        "tokenId": 14
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "fourth",
+        "Ear": "first",
+        "tokenId": 15
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "second",
+        "Ear": "first",
+        "tokenId": 16
+    },
+    {
+        "Background": "Pink",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "fifth",
+        "Ear": "first",
+        "tokenId": 17
+    },
+    {
+        "Background": "White",
+        "Head": "Head",
+        "Eyes": "second",
+        "Mouth": "first",
+        "Ear": "first",
+        "tokenId": 18
+    },
+    {
+        "Background": "Blue",
+        "Head": "Head",
+        "Eyes": "third",
+        "Mouth": "fifth",
+        "Ear": "first",
+        "tokenId": 19
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "fifth",
+        "Mouth": "fifth",
+        "Ear": "first",
+        "tokenId": 20
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "fifth",
+        "Mouth": "third",
+        "Ear": "first",
+        "tokenId": 21
+    },
+    {
+        "Background": "Blue",
+        "Head": "Head",
+        "Eyes": "second",
+        "Mouth": "second",
+        "Ear": "second",
+        "tokenId": 22
+    },
+    {
+        "Background": "Blue",
+        "Head": "Head",
+        "Eyes": "second",
+        "Mouth": "second",
+        "Ear": "first",
+        "tokenId": 23
+    },
+    {
+        "Background": "Blue",
+        "Head": "Head",
+        "Eyes": "second",
+        "Mouth": "second",
+        "Ear": "third",
+        "tokenId": 24
+    },
+    {
+        "Background": "Pink",
+        "Head": "Head",
+        "Eyes": "fifth",
+        "Mouth": "fifth",
+        "Ear": "first",
+        "tokenId": 25
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "fifth",
+        "Ear": "first",
+        "tokenId": 26
+    },
+    {
+        "Background": "Blue",
+        "Head": "Head",
+        "Eyes": "third",
+        "Mouth": "second",
+        "Ear": "first",
+        "tokenId": 27
+    },
+    {
+        "Background": "Red",
+        "Head": "Head",
+        "Eyes": "first",
+        "Mouth": "fourth",
+        "Ear": "third",
+        "tokenId": 28
+    },
+    {
+        "Background": "Pink",
+        "Head": "Head",
+        "Eyes": "third",
+        "Mouth": "fifth",
+        "Ear": "second",
+        "tokenId": 29
+    },
+    {
+        "Background": "Blue",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "fifth",
+        "Ear": "third",
+        "tokenId": 30
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "third",
+        "Mouth": "second",
+        "Ear": "first",
+        "tokenId": 31
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "third",
+        "Mouth": "fourth",
+        "Ear": "third",
+        "tokenId": 32
+    },
+    {
+        "Background": "Green",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "second",
+        "Ear": "first",
+        "tokenId": 33
+    },
+    {
+        "Background": "Green",
+        "Head": "Head",
+        "Eyes": "third",
+        "Mouth": "fifth",
+        "Ear": "first",
+        "tokenId": 34
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "second",
+        "Mouth": "fifth",
+        "Ear": "first",
+        "tokenId": 35
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "third",
+        "Mouth": "fifth",
+        "Ear": "second",
+        "tokenId": 36
+    },
+    {
+        "Background": "Orange",
+        "Head": "Head",
+        "Eyes": "third",
+        "Mouth": "second",
+        "Ear": "third",
+        "tokenId": 37
+    },
+    {
+        "Background": "Red",
+        "Head": "Head",
+        "Eyes": "fourth",
+        "Mouth": "fifth",
+        "Ear": "third",
+        "tokenId": 38
+    },
+    {
+        "Background": "Blue",
+        "Head": "Head",
+        "Eyes": "second",
+        "Mouth": "third",
+        "Ear": "first",
+        "tokenId": 39
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "image": "ipfs://QmeUNiY1RMLm15bMQLF32k8NytgyAFrasSX2r6PFmGWoso/3.png",
+    "tokenId": 3,
+    "description": "collection 1",
+    "name": "Ancient ETH Apes (AETHA) 3",
+    "date": 17207253674681,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Head"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "first"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "third"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "first"
+        }
+    ]
+}
