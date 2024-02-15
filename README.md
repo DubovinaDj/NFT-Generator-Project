@@ -11,3 +11,4 @@ my collection:
 
 ### Collection Example 
 
+![Screenshot Collection Example](https://github.com/DubovinaDj/NFTs/blob/main/NFTs-CollageExample.jpeg)
