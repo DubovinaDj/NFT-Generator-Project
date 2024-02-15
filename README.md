@@ -1,4 +1,4 @@
-# NFT Generation Project
+# NFT Generator Project
 
 This project aims to create a collection of unique Non-Fungible Tokens (NFTs) by combining different elements such as ears, eyes, head, and mouth to generate random pictures. These NFTs can then be traded or sold on platforms like OpenSea.
 
