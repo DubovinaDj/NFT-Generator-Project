@@ -1,5 +1,5 @@
 # NFTs
-In this repository I created NFT generator and smart contracts
+In this repository, I created an NFT generator and smart contracts
 
 Useful links:
 - https://ipfs.io/#install
@@ -8,3 +8,6 @@ Useful links:
 
 my collection:
 - https://testnets.opensea.io/collection/ancientettapes
+
+### Collection Example 
+
